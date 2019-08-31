@@ -1,0 +1,16 @@
+
+.guide_box {
+    width: 100%;
+    height: 100%;
+  }
+.guide_vertical {
+    position: relative;
+    width: 100%;
+    opacity: 0;
+    height: 100%;
+    display: table;
+  }
+  .guide_vertical_in {
+    display: table-cell;
+    vertical-align: middle;
+  }
